@@ -1,8 +1,32 @@
 # gambling_frenzy_timer
 
-GF Timer V1.0'.
-Gambling Frenzy Timer is a straight-forward on top, countdown timer and alarm for UK online casino and bingo gamblers. The UK Gambling Commisson insist that casinos constantly harrass players by messages, warnings and even bans, if they gamble for more than an hour at a time. Whatever happened to freedom huh? Run this app when you first log in to a casino and it will remind you after 57 mins to log out and take a break to avoid the hourly pop ups and hopefully avoid you getting flagged as a "problem gambler".
+'GF Timer V1.5',
+                           'Gambling Frenzy Timer is a straight-forward\n'
+                           'on top, countdown timer and alarm for UK\n'
+                           'online casino and bingo gamblers.\n\n'
+                           'The UK Gambling Commisson insist that casinos '
+                           'constantly harrass players by messages, and '
+                           'even bans, if they gamble for more than an\n'
+                           'an hour at a time,\n\n'
+                           'Run this app when you first log in to a casino\n'
+                           'Move the tiny timer window out of the way, '
+                           'like top right '
+                           'of your screen, and it will remind you after '
+                           '57 mins '
+                           '(or choose your own time limit from the info '
+                           'menu) to take '
+                           'a break and avoid the hourly pop ups from the '
+                           'casino.\n\nDoing this may help you avoid '
+                           'getting flagged as a '
+                           'problem gambler, though most casinos interpret '
+                           'the rules differently.\n'
 
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gftv1_screenshot.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot1.png)
+
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot2.png)
+
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot3.png)
+
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot4.png)
 
