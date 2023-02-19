@@ -24,6 +24,8 @@ GF Timer V1.5
                            getting flagged as a
                            problem gambler, though most casinos interpret
                            the rules differently.
+                           
+                           Tested on Windowes 7, but should work cross-platform.
 
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot1.png)
