@@ -10,10 +10,7 @@ GF Timer V1.5
                            even bans, if they gamble for more than an
                            an hour at a time.
                            
-                           Run this app when you first log in to a casino.
-                           Move the tiny timer window out of the way,
-                           I like the top right of screen personally.
-                           
+                           Run this app when you first log in to a casino, click "Start Timer"
                            and GFT will remind you after 57 mins 
                            (or choose your own time limit from the info
                            'menu at any time) to take
@@ -23,7 +20,8 @@ GF Timer V1.5
                            Doing this may help you avoid
                            getting flagged as a
                            problem gambler, though most casinos interpret
-                           the rules differently.
+                           the rules differently, some are less strict than others and some
+                           are just damn right facist about it.
                            
                            Tested on Windowes 7, but should work cross-platform.
 
