@@ -22,7 +22,7 @@ GF Timer V1.5
                            the rules differently, some are less strict than others and some
                            are just damn right facist about it.
                            
-                           Tested on Windowes 7, but should work cross-platform though.
+                           Tested on Windows 7, but should work cross-platform though.
 
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/01-gft_screenshot_start.png)
