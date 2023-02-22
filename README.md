@@ -13,17 +13,16 @@ GF Timer V1.5
                            Run this app when you first log in to a casino, click "Start Timer"
                            and GFT will remind you after 57 mins 
                            (or choose your own time limit from the info
-                           'menu at any time) to take
+                           menu at any time) to take
                            a break and avoid the hourly pop ups from the
                            casino.
                            
-                           Doing this may help you avoid
-                           getting flagged as a
+                           Doing this may help you to avoid getting flagged as a
                            problem gambler, though most casinos interpret
                            the rules differently, some are less strict than others and some
                            are just damn right facist about it.
                            
-                           Tested on Windowes 7, but should work cross-platform.
+                           Tested on Windowes 7, but should work cross-platform though.
 
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/01-gft_screenshot_start.png)
