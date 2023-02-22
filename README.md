@@ -1,6 +1,6 @@
 # gambling_frenzy_timer
 
-GF Timer V1.5
+GF Timer V1.62
                            Gambling Frenzy Timer is a straight-forward
                            stay on screen top, countdown timer and alarm for UK
                            online casino gamblers.
