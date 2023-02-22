@@ -26,11 +26,15 @@ GF Timer V1.5
                            Tested on Windowes 7, but should work cross-platform.
 
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot1.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/01-gft_screenshot_start.png)
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot2.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/02-gft_screenshot_countdown.png)
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot3.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/03-gft_screenshot_setmins.png)
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/gft_screenshot4.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/04-gft_screenshot_menu.png)
+
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/05-gft_screenshot_alarm.png)
+
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/06-gft_screenshot_about.png)
 
