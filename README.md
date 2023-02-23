@@ -1,5 +1,5 @@
 # gambling_frenzy_timer
-Hey, I know I have gone way over the top with the GUI on this little app that nobody will ever use but me,
+Hey, I know I have gone a little over the top with try-excepts and the GUI on this little app that nobody will ever use but me,
 but it is my first bit of tkinter in 2 years - so fiddling around trying improve it helped knock off some old tk rust.
 
                            Gambling Frenzy Timer is a straight-forward
