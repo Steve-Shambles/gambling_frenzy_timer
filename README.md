@@ -29,7 +29,7 @@ GF Timer V1.62
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots/01-gft_screenshot_start.png)
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/02-gft_screenshot_countdown.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots/02-gft_screenshot_countdown.png)
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/03-gft_screenshot_setmins.png)
 
