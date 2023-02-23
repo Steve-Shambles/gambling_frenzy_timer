@@ -27,7 +27,7 @@ GF Timer V1.62
                            Tested on Windows 7, but should work cross-platform though.
 
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshoys\01-gft_screenshot_start.png)
+![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots\01-gft_screenshot_start.png)
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/02-gft_screenshot_countdown.png)
 
