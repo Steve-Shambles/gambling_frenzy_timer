@@ -1,0 +1,17 @@
+﻿
+
+GF Timer V1.63
+
+I wrote this little app for my own use so it is set up how I want it, I hope it suits your needs too, if not let me know.
+
+Gambling Frenzy Timer is a straight-forward, stay-on-top, countdown timer and alarm for UK online casino and bingo gamblers.
+
+The UK Gambling Commisson insist that casinos constantly harrass players by messages, and even bans, if they gamble for more than an an hour at a time,
+
+Run this app when you first log in to a casino and you will reminded to take a break after 57 mins by a pop up message and alarm sound(or you canchoose your own time limit from the info menu) and you will then avoid the hourly pop up reminders from the casino.
+
+Doing this may help you avoid getting flagged as a problem gambler, though most casinos interpret the rules differently and have there own ways of spotting addicts.
+
+Written in Python and Tkinter GUI.
+This program is FREEWARE, 
+but remains (c) Steve Shambles Feb 2023
