@@ -2,7 +2,6 @@
 Hey, I know I have gone way over the top with the GUI on this little app that nobody will ever use but me,
 but it is my first bit of tkinter in 2 years - so fiddling around trying improve it helped knock off some old tk rust.
 
-GF Timer V1.62
                            Gambling Frenzy Timer is a straight-forward
                            stay on screen top, countdown timer and alarm for UK
                            online casino gamblers.
