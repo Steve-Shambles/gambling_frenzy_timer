@@ -3,7 +3,7 @@ Hey, I know I have gone way over the top with the GUI on this little app that no
 but it is my first bit of tkinter in 2 years - so fiddling around trying improve it helped knock off some old tk rust.
 
                            Gambling Frenzy Timer is a straight-forward
-                           stay on screen top, countdown timer and alarm for UK
+                           stay on top screen, countdown timer and alarm for UK
                            online casino gamblers.
                            
                            The UK Gambling Commisson insist that casinos
@@ -11,12 +11,14 @@ but it is my first bit of tkinter in 2 years - so fiddling around trying improve
                            even bans, if they gamble for more than an
                            an hour at a time.
                            
+                           Almost no casinos furnish you with an overall timer
+                           for some reason (I wonder why?) but they nearly always give you a timer 
+                           for each individual game.
+                           
                            Run this app when you first log in to a casino, click "Start Timer"
                            and GFT will remind you after 57 mins 
                            (or choose your own time limit from the info
-                           menu at any time) to take
-                           a break and avoid the hourly pop ups from the
-                           casino.
+                           menu at any time) to take a break and avoid the hourly pop ups from the casino.
                            
                            Doing this may help you to avoid getting flagged as a
                            problem gambler, though most casinos interpret
