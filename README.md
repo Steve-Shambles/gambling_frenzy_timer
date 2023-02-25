@@ -28,8 +28,6 @@ but it is my first bit of tkinter in 2 years - so fiddling around trying improve
                            Tested on Windows 7, but should work cross-platform though.
 
 
-![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots/01-gft_screenshot_start.png)
-
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots/02-gft_screenshot_countdown.png)
 
 ![Alt Text](https://github.com/Steve-Shambles/gambling_frenzy_timer/blob/main/screenshots/03-gft_screenshot_setmins.png)
